@@ -1,7 +1,10 @@
 Step 1:
+We've provided a basic HTML boilerplate for you.
+Create an h1 element within your body element and give it the text Nutrition Facts.
 
 
 Step 2:
+Below your h1 element, add a p element with the text 8 servings per container.
 
 
 Step 3:
